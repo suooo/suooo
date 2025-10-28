@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎨 그림 그리는 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 다양한 경험을 바탕으로 기술을 빠르게 습득하고 실전에 강한 <b>프론트엔드 개발자 박수연</b>입니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 코드로 아이디어를 그리는 <b>프론트엔드 개발자 박수연</b>입니다!  </div> 
     </div>
     <br/>
     <div style="text-align: left;">
